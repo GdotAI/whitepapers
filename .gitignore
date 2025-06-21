@@ -1,0 +1,8 @@
+Library/
+.Trash/
+.DS_Store
+.nvm/
+GitHive/
+Documents/github/gdotAI/whitepapers/
+*.metadata.plist
+*.log
